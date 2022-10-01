@@ -1,3 +1,5 @@
 Devops Prctices
 Continues integration
 Continues Deployment
+Continues Delivery
+Configuration management
